@@ -1,7 +1,7 @@
 <?php 
   // SOAL 1
   echo "SOAL 1 <br><br>";
-  $array = [6,3,5,4,2,3,4];
+  $array = [1,12,31,5,3,23,4,5,22];
   // var_dump($array);
   // echo "<br>";
   for($i=0;$i<=count($array)-1;$i++){
