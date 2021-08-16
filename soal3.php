@@ -1,8 +1,8 @@
 <?php 
   // SOAL 3
   echo "SOAL 3 <br><br>";
-  $array = [-9.3,-0.5, 0.25,0.3,1.34];
-  $hasil = -7.96;
+  $array = [1,2,4,4,5,6,7,7,8,8];
+  $hasil = 12;
   echo "Array = ";
   for($i=0;$i<=count($array)-1;$i++){
     $urut = $i+1;
